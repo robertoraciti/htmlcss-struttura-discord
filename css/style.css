@@ -19,11 +19,12 @@ header {
 }
 
 .header-section {
-  width: 100%;
+  width: 80%;
   justify-content: space-between;
   align-items: center;
   background-color: #daa521;
   border: 1px dashed black;
+  margin: auto;
 }
 
 .header-section * {
@@ -73,4 +74,55 @@ a {
 .bg-grey-sm {
   height: 400px;
   background-color: #d3d3d3;
+}
+.bg-grey-lg {
+  height: 800px;
+  background-color: #d3d3d3;
+}
+
+.green-box {
+  width: 80%;
+  height: 700px;
+  border: 1px dashed black;
+  background-color: #238b21;
+}
+
+.bg-black {
+  height: 500px;
+  background-color: #23272a;
+}
+
+.adv {
+  height: 400px;
+  width: 20%;
+  background-color: #f08080;
+  border: 1px dashed black;
+}
+
+.info-1 {
+  height: 400px;
+  width: 15%;
+  background-color: #21b2aa;
+  border: 1px dashed white;
+}
+
+.info-2 {
+  height: 400px;
+  width: 15%;
+  background-color: #21b2aa;
+  border: 1px dashed white;
+}
+
+.info-3 {
+  height: 400px;
+  width: 15%;
+  background-color: #21b2aa;
+  border: 1px dashed white;
+}
+
+.info-4 {
+  height: 400px;
+  width: 15%;
+  background-color: #21b2aa;
+  border: 1px dashed white;
 }
