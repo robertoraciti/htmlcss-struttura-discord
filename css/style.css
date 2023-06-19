@@ -36,18 +36,13 @@ header {
   display: flex;
 }
 
-a {
-  text-decoration: none;
-  color: black;
-}
-
 .blue-section {
   background-color: #00008b;
   height: 300px;
 }
 
 .sub-header {
-  width: 50%;
+  width: 40%;
   height: 250px;
   border: 1px dashed black;
   background-color: #ee81ee;
@@ -125,4 +120,24 @@ a {
   width: 15%;
   background-color: #21b2aa;
   border: 1px dashed white;
+}
+main {
+  border-bottom: 1px solid #bdbebf;
+}
+
+.footer-bg {
+  height: 100px;
+  background-color: #23272a;
+}
+
+.footer-sec {
+  width: 80%;
+  height: 50px;
+  background-color: #7fffd4;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer-sec div {
+  border: 1px dashed black;
+  background-color: #ffb6c2;
 }
