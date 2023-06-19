@@ -51,3 +51,26 @@ a {
   border: 1px dashed black;
   background-color: #ee81ee;
 }
+
+.bg-white {
+  height: 400px;
+}
+.blue-box {
+  width: 50%;
+  height: 300px;
+  border: 1px dashed black;
+  background-color: #1d90ff;
+}
+.pink-box {
+  width: 30%;
+  height: 300px;
+  border: 1px dashed black;
+  background-color: #ffc1cb;
+}
+.container-center {
+  justify-content: center;
+}
+.bg-grey-sm {
+  height: 400px;
+  background-color: #d3d3d3;
+}
