@@ -13,9 +13,13 @@ header {
   margin: auto;
   display: flex;
 }
+
+.flex {
+  display: flex;
+}
+
 .header-section {
   width: 100%;
-  display: flex;
   justify-content: space-between;
   align-items: center;
   background-color: #daa521;
@@ -34,4 +38,16 @@ header {
 a {
   text-decoration: none;
   color: black;
+}
+
+.blue-section {
+  background-color: #00008b;
+  height: 300px;
+}
+
+.sub-header {
+  width: 50%;
+  height: 250px;
+  border: 1px dashed black;
+  background-color: #ee81ee;
 }
